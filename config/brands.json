@@ -1,0 +1,44 @@
+{
+  "watch_brands": {
+    "SAMSUNG": [
+      "Samsung Electronics Co Ltd.",
+      "SAMSUNG ELECTRONICS CO., LTD",
+      "SAMSUNG ELECTRONICS CO., LTD."
+    ],
+    "APPLE": [
+      "Apple Inc."
+    ],
+    "XIAOMI": [
+      "Xiaomi Communications Co., Ltd.",
+      "Xiaomi Communication Technology Co., Ltd."
+    ],
+    "HONOR": [
+      "Honor Device Co., Ltd"
+    ],
+    "OPPO": [
+      "Guangdong OPPO Mobile  Telecommunications Co., Ltd"
+    ],
+    "VIVO": [
+      "Vivo Mobile Communication Co., Ltd"
+    ],
+    "JBL": [
+      "Harman International Industries Inc.",
+      "Harman International Industries, Inc.",
+      "HARMAN INTERNATIONAL INDUSTRIES, INC"
+    ]
+  },
+  "product_types": [
+    "Telefone Móvel Celular",
+    "Transceptor de Radiação Restrita",
+    "Estação Terminal de Acesso",
+    "Sistemas de Identificação por Radiofrequências",
+    "Sistemas Operando nas Faixas de RF Ultra Larga",
+    "Equipamento de Radiocomunicação de Radiação Restrita",
+    "Carregador Indutivo para Telefone Celular"
+  ],
+  "exclude_types": [
+    "Bateria de Lítio utilizada em Telefone Celular",
+    "Carregador para Telefone Celular",
+    "Acessório p/ Telefone Móvel Celular do tipo Bateria Auxiliar"
+  ]
+}

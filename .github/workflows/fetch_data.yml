@@ -1,0 +1,30 @@
+name: Fetch Anatel Data
+
+on:
+  schedule:
+    - cron: '0 12 * * 1'     # 每周一 UTC 12:00 = BRT 09:00
+  workflow_dispatch:          # 手动触发按钮
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and filter Anatel data
+        run: python scripts/fetch_anatel.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git diff --staged --quiet || git commit -m "data: update $(date -u +%Y-%m-%d)"
+          git push
