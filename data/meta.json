@@ -1,9 +1,10 @@
 {
-  "last_fetch": "2026-04-10T03:23:10.857738Z",
-  "total_filtered_rows": 4132,
+  "last_fetch": "2026-04-10T03:45:38.592401Z",
+  "total_filtered_rows": 7129,
   "brands": {
     "APPLE": 910,
     "HONOR": 49,
+    "HUAWEI": 2997,
     "JBL": 588,
     "OPPO": 92,
     "SAMSUNG": 2001,

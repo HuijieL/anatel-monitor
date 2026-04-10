@@ -25,7 +25,7 @@ CONFIG_DIR = ROOT / "config"
 CSV_FILE = "data/watched_brands.csv"
 
 
-def git_show(ref: str, path: str) -> str | None:
+def git_show(ref: str, path: str):
     """Get file content at a specific git ref."""
     try:
         result = subprocess.run(
@@ -109,7 +109,7 @@ def main():
     parser = argparse.ArgumentParser(description="Analyze new Anatel certifications")
     parser.add_argument("--days", type=int, default=None, help="Compare with N days ago")
     parser.add_argument("--brand", type=str, default=None, help="Filter by brand")
-    parser.add_argument("--output", choices=["table", "json", "markdown"], default="table")
+    parser.add_argument("--output", choices=["table", "json", "markdown", "report"], default="table")
     parser.add_argument("--ref", type=str, default="HEAD~1", help="Git ref to compare against")
     args = parser.parse_args()
 
@@ -150,7 +150,14 @@ def main():
         new_items = [r for r in new_items if r["brand"].upper() == args.brand.upper()]
 
     # Output
-    if args.output == "json":
+    if args.output == "report":
+        report = {
+            "date": datetime.now().strftime("%Y-%m-%d"),
+            "ref": ref,
+            "new_items": new_items,
+        }
+        print(json.dumps(report, indent=2, ensure_ascii=False))
+    elif args.output == "json":
         print(json.dumps(new_items, indent=2, ensure_ascii=False))
     elif args.output == "markdown":
         if not new_items:
