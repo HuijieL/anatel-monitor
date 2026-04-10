@@ -134,6 +134,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 092432409185;2025-05-29;Telefone Móvel Celular;2409FPCC4G;POCO M7 Pro 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 090452500953;2026-03-05;Telefone Móvel Celular;SM-A376B/DS;;Standalone (SA);Samsung Electronics Co Ltd.
 090072200953;2023-12-12;Telefone Móvel Celular;SM-A236M/DSN;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
+089962515156;2026-04-08;Telefone Móvel Celular;X6878;NOTE 60 Pro;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 088222500330;2026-03-18;Telefone Móvel Celular;XT2607-1;;Ambos (SA / NSA);Motorola Mobility LLC
 088092500330;2026-03-23;Telefone Móvel Celular;XT2621-5;;Ambos (SA / NSA);Motorola Mobility LLC
 087792509185;2026-02-19;Telefone Móvel Celular;2511FPC34G;POCO X8 Pro 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
@@ -153,6 +154,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 084412513366;2026-02-09;Telefone Móvel Celular;RMX5171;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 084372514862;2026-02-23;Telefone Móvel Celular;CPH2789;;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 083962413411;2024-12-10;Telefone Móvel Celular;TA-1640;HMD Fusion;Ambos (SA / NSA);HMD Global Oy
+083372500330;2026-04-07;Telefone Móvel Celular;XT2651-1;;Ambos (SA / NSA);Motorola Mobility LLC
 083282003109;2021-02-09;Telefone Móvel Celular;ZS661KS;ROG Phone 3;Ambos (SA / NSA);Asustek Computer Inc.
 082162100330;2022-05-20;Telefone Móvel Celular;XT2153-1;Motorola Edge 20 Pro;Non-standalone (NSA);Motorola Mobility LLC
 082152518234;2026-03-12;Telefone Móvel Celular;USM001;FOSSIBOT F105;Non-standalone (NSA);URANYX INDUSTRIES LIMITED
@@ -202,6 +204,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 070682500330;2026-03-12;Telefone Móvel Celular;XT2655-1;;Ambos (SA / NSA);Motorola Mobility LLC
 070082413366;2024-10-02;Telefone Móvel Celular;RMX5000;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 069842400330;2024-12-12;Telefone Móvel Celular;XT2409-2;motorola edge 50 neo;Ambos (SA / NSA);Motorola Mobility LLC
+069412500330;2026-03-27;Telefone Móvel Celular;XT2657-1;;Ambos (SA / NSA);Motorola Mobility LLC
 068432401993;2024-12-10;Telefone Móvel Celular;A3290;iPhone 16 Plus;Ambos (SA / NSA);Apple Inc.
 068402401993;2024-12-10;Telefone Móvel Celular;A3287;iPhone 16;Ambos (SA / NSA);Apple Inc.
 068242513366;2025-12-12;Telefone Móvel Celular;RMX5253;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
@@ -215,7 +218,9 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 066702303109;2023-06-19;Telefone Móvel Celular;ASUS_AI2205_D;ROG Phone 7 PRO;Non-standalone (NSA);Asustek Computer Inc.
 066622513713;2025-11-24;Telefone Móvel Celular;KM9;TECNO POVA Slim 5G;Ambos (SA / NSA);TECNO MOBILE LIMITED
 065862500330;2026-01-15;Telefone Móvel Celular;XT2621-1;;Ambos (SA / NSA);Motorola Mobility LLC
+065862500330;2026-01-15;Telefone Móvel Celular;XT2621-1;Moto g67;Ambos (SA / NSA);Motorola Mobility LLC
 065862500330;2026-01-15;Telefone Móvel Celular;XT2621-3;;Ambos (SA / NSA);Motorola Mobility LLC
+065862500330;2026-01-15;Telefone Móvel Celular;XT2621-3;Moto g77;Ambos (SA / NSA);Motorola Mobility LLC
 065652400330;2024-11-04;Telefone Móvel Celular;XT2407-2;Motorola edge 50;Ambos (SA / NSA);Motorola Mobility LLC
 065332416292;2024-06-17;Telefone Móvel Celular;LFi FIVE;Smart Phone;Ambos (SA / NSA);LYOTECH LABS LLC
 065332416292;2024-06-17;Telefone Móvel Celular;LFi FOUR;Smart Phone;Ambos (SA / NSA);LYOTECH LABS LLC
@@ -319,6 +324,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 016532513366;2025-05-14;Telefone Móvel Celular;RMX3963;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 015742513366;2025-06-06;Telefone Móvel Celular;RMX5061;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 012682501654;2025-06-16;Telefone Móvel Celular;CT37X1N;;Ambos (SA / NSA);Honeywell International Inc.
+012452616806;2026-04-08;Telefone Móvel Celular;A069;;Ambos (SA / NSA);Nothing Technology Limited
 012432507600;2025-06-06;Telefone Móvel Celular;T521D;;Ambos (SA / NSA);TCL Communication LTD
 010962517361;2025-03-17;Telefone Móvel Celular;V2440;JOVI V50 Lite 5G;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
 007522517361;2025-03-28;Telefone Móvel Celular;V2427;JOVI V50 5G;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
@@ -334,6 +340,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 004312200953;2022-03-09;Telefone Móvel Celular;SM-A226BR/DSN;;Non-standalone (NSA);Samsung Electronics Co Ltd.
 004002213366;2022-03-07;Telefone Móvel Celular;RMX3301;(realme GT 2 Pro);Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 003792000330;2022-02-11;Telefone Móvel Celular;XT2061-3;Motorola Edge Plus;Non-standalone (NSA);Motorola Mobility LLC
+003302600330;2026-04-06;Telefone Móvel Celular;XT2625-1;;Ambos (SA / NSA);Motorola Mobility LLC
 003172414862;2024-03-07;Telefone Móvel Celular;CPH2603;OPPO Reno11 F 5G;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 003132414862;2024-03-06;Telefone Móvel Celular;CPH2557;OPPO A79 5G;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 002952617361;2026-03-12;Telefone Móvel Celular;J2508;;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
