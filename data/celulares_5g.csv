@@ -157,6 +157,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 084372514862;2026-02-23;Telefone Móvel Celular;CPH2789;;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 083962413411;2024-12-10;Telefone Móvel Celular;TA-1640;HMD Fusion;Ambos (SA / NSA);HMD Global Oy
 083372500330;2026-04-07;Telefone Móvel Celular;XT2651-1;;Ambos (SA / NSA);Motorola Mobility LLC
+083372500330;2026-04-07;Telefone Móvel Celular;XT2651-1;motorola razr fold;Ambos (SA / NSA);Motorola Mobility LLC
 083282003109;2021-02-09;Telefone Móvel Celular;ZS661KS;ROG Phone 3;Ambos (SA / NSA);Asustek Computer Inc.
 082162100330;2022-05-20;Telefone Móvel Celular;XT2153-1;Motorola Edge 20 Pro;Non-standalone (NSA);Motorola Mobility LLC
 082152518234;2026-03-12;Telefone Móvel Celular;USM001;FOSSIBOT F105;Non-standalone (NSA);URANYX INDUSTRIES LIMITED
@@ -319,6 +320,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 025142615156;2026-04-23;Telefone Móvel Celular;X6891;GT 50 Pro;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 024532500953;2025-05-29;Telefone Móvel Celular;SM-F966B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 024432617361;2026-05-20;Telefone Móvel Celular;J2505;;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
+024042600953;2026-06-19;Telefone Móvel Celular;SM-F976B;;Standalone (SA);Samsung Electronics Co Ltd.
 023042601654;2026-05-11;Telefone Móvel Celular;CT70-X1;;Ambos (SA / NSA);Honeywell International Inc.
 022972000330;2022-05-09;Telefone Móvel Celular;XT2063-3;Motorola Edge;Non-standalone (NSA);Motorola Mobility LLC
 022862506150;2025-06-30;Telefone Móvel Celular;Tab-Ex 05 DZ1;;Ambos (SA / NSA);Pepperl+Fuchs SE
@@ -326,11 +328,13 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 022852203589;2022-05-06;Telefone Móvel Celular;X6815B;ZERO 5G;Ambos (SA / NSA);POSITIVO TECNOLOGIA S.A.
 021632103109;2022-05-11;Telefone Móvel Celular;ZS673KS;ROG Phone 5;Ambos (SA / NSA);Asustek Computer Inc.
 021632103109;2022-05-11;Telefone Móvel Celular;ZS676KS;ROG Phone 5s;Ambos (SA / NSA);Asustek Computer Inc.
+021422600953;2026-06-17;Telefone Móvel Celular;SM-F776B;;Standalone (SA);Samsung Electronics Co Ltd.
 021282200953;2023-10-25;Telefone Móvel Celular;SM-G781B/DS;;Non-standalone (NSA);Samsung Electronics Co Ltd.
 020702613713;2026-04-13;Telefone Móvel Celular;X6730B;;Standalone (SA);TECNO MOBILE LIMITED
 019682415933;2024-01-29;Telefone Móvel Celular;TESTE 2;TESTE 2;Standalone (SA);Polyvox Tecnologia Digital Ltda
 019572501654;2026-01-20;Telefone Móvel Celular;CT32X1;;Standalone (SA);Honeywell International Inc.
 019302501726;2025-09-01;Telefone Móvel Celular;AELNRNA;;Ambos (SA / NSA);Datalogic S.R.L.
+019282600953;2026-06-16;Telefone Móvel Celular;SM-A276B/DS;;Standalone (SA);Samsung Electronics Co Ltd.
 017592514862;2025-07-18;Telefone Móvel Celular;CPH2735;OPPO A5 5G;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 017462516572;2026-03-24;Telefone Móvel Celular;S50;;Ambos (SA / NSA);Bluebird Inc.
 017462516572;2026-03-24;Telefone Móvel Celular;S70;;Ambos (SA / NSA);Bluebird Inc.
