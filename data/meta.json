@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-06-22T16:46:49.017225Z",
-  "total_filtered_rows": 7474,
+  "last_fetch": "2026-06-29T15:38:17.568939Z",
+  "total_filtered_rows": 7492,
   "brands": {
     "APPLE": 912,
     "HONOR": 53,
-    "HUAWEI": 3019,
-    "JBL": 604,
-    "OPPO": 100,
+    "HUAWEI": 3022,
+    "JBL": 609,
+    "OPPO": 106,
     "REALME": 218,
-    "SAMSUNG": 2037,
+    "SAMSUNG": 2041,
     "VIVO": 42,
     "XIAOMI": 489
   }
