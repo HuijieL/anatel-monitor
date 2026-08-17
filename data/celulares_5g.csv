@@ -7,8 +7,6 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 219902200953;2023-07-13;Telefone Móvel Celular;SM-A346M/DSN;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 219892200953;2023-07-14;Telefone Móvel Celular;SM-A546E/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 217592209185;2023-08-11;Telefone Móvel Celular;22101316G;Redmi Note 12 Pro;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
-217582209185;2023-07-14;Telefone Móvel Celular;2210129SG;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
-217582209185;2023-07-14;Telefone Móvel Celular;2210129SG;Xiaomi 13 Lite;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 217522314550;2024-01-14;Telefone Móvel Celular;2311DRK48G;POCO X6 PRO 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 217152313366;2024-03-14;Telefone Móvel Celular;RMX3867;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 215092313366;2023-12-14;Telefone Móvel Celular;RMX3785;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
@@ -127,7 +125,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 096952400953;2024-12-24;Telefone Móvel Celular;SM-S931B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 096342315156;2024-04-24;Telefone Móvel Celular;X6711;Note 30 5G;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 095832300953;2023-06-22;Telefone Móvel Celular;SM-M346B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
-095752400953;2026-08-07;Telefone Móvel Celular;SM-S936B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
+095752400953;2026-08-10;Telefone Móvel Celular;SM-S936B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 095732400953;2024-12-20;Telefone Móvel Celular;SM-S938B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 092432409185;2025-05-29;Telefone Móvel Celular;24094RAD4G;Redmi Note 14 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 092432409185;2025-05-29;Telefone Móvel Celular;2409FPCC4G;POCO M7 Pro 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
@@ -249,6 +247,8 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 060322400330;2026-07-20;Telefone Móvel Celular;XT2427-1;Moto g85 5G;Ambos (SA / NSA);Motorola Mobility LLC
 059572313366;2023-05-11;Telefone Móvel Celular;RMX3741;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 059052314315;2023-08-28;Telefone Móvel Celular;X50;;Ambos (SA / NSA);Sichuan Koobee Communication Equipament Co., Ltd.
+057982609185;2026-08-14;Telefone Móvel Celular;26081RA18G;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
+057982609185;2026-08-14;Telefone Móvel Celular;26081RA18L;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 057832400953;2024-06-06;Telefone Móvel Celular;SM-F956B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 057292515156;2025-11-21;Telefone Móvel Celular;X6873;GT 30 Pro;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 057202500953;2025-12-19;Telefone Móvel Celular;SM-A076M/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
@@ -301,6 +301,8 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 035972413366;2024-06-03;Telefone Móvel Celular;RMX3851;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 035712200330;2024-08-14;Telefone Móvel Celular;XT2223-2;moto g62 5G;Ambos (SA / NSA);Motorola Mobility LLC
 034962500953;2025-08-25;Telefone Móvel Celular;SM-S731B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
+034922608726;2026-08-14;Telefone Móvel Celular;TC101B;TC101;Standalone (SA);Zebra Technologies Corporation
+034922608726;2026-08-14;Telefone Móvel Celular;TC101B;TC101W;Standalone (SA);Zebra Technologies Corporation
 034442513366;2025-09-17;Telefone Móvel Celular;RMX5101;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 034382513366;2025-08-25;Telefone Móvel Celular;RMX5106;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 034282500330;2025-12-29;Telefone Móvel Celular;XT2509-1;Motorola edge 60 neo;Ambos (SA / NSA);Motorola Mobility LLC
@@ -345,6 +347,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 017172500953;2025-05-29;Telefone Móvel Celular;SM-F761B;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 016532513366;2025-05-14;Telefone Móvel Celular;RMX3963;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 015742513366;2025-06-06;Telefone Móvel Celular;RMX5061;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
+014072617361;2026-08-10;Telefone Móvel Celular;J2510;;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
 012682501654;2025-06-16;Telefone Móvel Celular;CT37X1N;;Ambos (SA / NSA);Honeywell International Inc.
 012452616806;2026-04-08;Telefone Móvel Celular;A069;;Ambos (SA / NSA);Nothing Technology Limited
 012432507600;2025-06-06;Telefone Móvel Celular;T521D;;Ambos (SA / NSA);TCL Communication LTD
