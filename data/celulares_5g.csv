@@ -205,6 +205,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 070802407600;2024-11-04;Telefone Móvel Celular;T803E;;Ambos (SA / NSA);TCL Communication LTD
 070682500330;2026-06-24;Telefone Móvel Celular;XT2655-1;motorola razr 70 ultra;Ambos (SA / NSA);Motorola Mobility LLC
 070082413366;2024-10-02;Telefone Móvel Celular;RMX5000;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
+069952609185;2026-09-19;Telefone Móvel Celular;2609FRA74G;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 069842400330;2024-12-12;Telefone Móvel Celular;XT2409-2;motorola edge 50 neo;Ambos (SA / NSA);Motorola Mobility LLC
 069412500330;2026-05-04;Telefone Móvel Celular;XT2657-1;Motorola razr 70;Ambos (SA / NSA);Motorola Mobility LLC
 068432401993;2024-12-10;Telefone Móvel Celular;A3290;iPhone 16 Plus;Ambos (SA / NSA);Apple Inc.
@@ -248,9 +249,13 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 059522600330;2026-08-17;Telefone Móvel Celular;XT2625-13;;Ambos (SA / NSA);Motorola Mobility LLC
 059492600330;2026-08-17;Telefone Móvel Celular;XT2625-11;;Ambos (SA / NSA);Motorola Mobility LLC
 059052314315;2023-08-28;Telefone Móvel Celular;X50;;Ambos (SA / NSA);Sichuan Koobee Communication Equipament Co., Ltd.
+058722614862;2026-09-15;Telefone Móvel Celular;CPH2913;;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 058712614862;2026-08-20;Telefone Móvel Celular;CPH2931;;Ambos (SA / NSA);Guangdong OPPO Mobile  Telecommunications Co., Ltd
 057982609185;2026-08-14;Telefone Móvel Celular;26081RA18G;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 057982609185;2026-08-14;Telefone Móvel Celular;26081RA18L;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
+057892609185;2026-09-15;Telefone Móvel Celular;2607DPC18G;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
+057892609185;2026-09-15;Telefone Móvel Celular;2607DRA18G;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
+057892609185;2026-09-15;Telefone Móvel Celular;2607DRA18T;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 057832400953;2024-06-06;Telefone Móvel Celular;SM-F956B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 057292515156;2025-11-21;Telefone Móvel Celular;X6873;GT 30 Pro;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 057202500953;2025-12-19;Telefone Móvel Celular;SM-A076M/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
