@@ -133,8 +133,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 090072200953;2023-12-12;Telefone Móvel Celular;SM-A236M/DSN;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 089962515156;2026-04-08;Telefone Móvel Celular;X6878;NOTE 60 Pro;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 088222500330;2026-06-24;Telefone Móvel Celular;XT2607-1;edge 70 pro;Ambos (SA / NSA);Motorola Mobility LLC
-088092500330;2026-03-23;Telefone Móvel Celular;XT2621-5;;Ambos (SA / NSA);Motorola Mobility LLC
-088092500330;2026-03-23;Telefone Móvel Celular;XT2621-5;moto g max;Ambos (SA / NSA);Motorola Mobility LLC
+088092500330;2026-10-19;Telefone Móvel Celular;XT2621-5;moto g max;Ambos (SA / NSA);Motorola Mobility LLC
 087792509185;2026-02-19;Telefone Móvel Celular;2511FPC34G;POCO X8 Pro 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 087522513366;2026-05-08;Telefone Móvel Celular;RMX5258;;Ambos (SA / NSA);Realme Chongqing Mobile Telecommunications Corp.,
 087062100953;2023-05-18;Telefone Móvel Celular;SM-F926B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
@@ -234,6 +233,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 064692615156;2026-08-18;Telefone Móvel Celular;X6896;;Ambos (SA / NSA);INFINIX MOBILITY LIMITED
 064302400330;2026-07-16;Telefone Móvel Celular;XT2453-1;Motorola razr 50;Ambos (SA / NSA);Motorola Mobility LLC
 063822607600;2026-10-07;Telefone Móvel Celular;T852K;TCL P80 PRO;Standalone (SA);TCL Communication LTD
+063812607600;2026-10-06;Telefone Móvel Celular;T853K;TCL P80;Standalone (SA);TCL Communication LTD
 063792607600;2026-10-07;Telefone Móvel Celular;T952K;TCL P80 Ultra;Standalone (SA);TCL Communication LTD
 063612613713;2026-08-17;Telefone Móvel Celular;LK6;TECNO POVA 8 5G;Ambos (SA / NSA);TECNO MOBILE LIMITED
 062762509185;2026-09-02;Telefone Móvel Celular;2510EPC8BG;POCO M8 PRO 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
