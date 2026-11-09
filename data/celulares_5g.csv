@@ -293,8 +293,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 046342411868;2024-09-23;Telefone Móvel Celular;M540A01;IS540.RG;Ambos (SA / NSA);i.safe MOBILE GmbH
 045252400953;2024-05-17;Telefone Móvel Celular;SM-M356B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 044652300330;2024-10-29;Telefone Móvel Celular;XT2303-2;motorola edge 40;Ambos (SA / NSA);Motorola Mobility LLC
-043402514550;2025-10-01;Telefone Móvel Celular;25069PTEBG;;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
-043402514550;2025-10-01;Telefone Móvel Celular;25069PTEBG;Xiaomi 15T;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
+043402514550;2026-11-05;Telefone Móvel Celular;25069PTEBG;Xiaomi 15T;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 043392514550;2025-12-11;Telefone Móvel Celular;2508CRN2BE;Redmi 15C 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 043212509185;2025-09-09;Telefone Móvel Celular;2506BPN68G;Xiaomi 15T Pro 5G;Ambos (SA / NSA);Xiaomi Communications Co., Ltd.
 042202415801;2024-09-24;Telefone Móvel Celular;ALI-NX1;Magic6 Lite;Ambos (SA / NSA);Honor Device Co., Ltd
@@ -340,7 +339,7 @@ NumeroHomologacao;DataEmissaoHomologacao;TipodeProduto;Modelo;NomeComercial;Modo
 024532500953;2025-05-29;Telefone Móvel Celular;SM-F966B/DS;;Ambos (SA / NSA);Samsung Electronics Co Ltd.
 024432617361;2026-05-20;Telefone Móvel Celular;J2505;;Ambos (SA / NSA);Vivo Mobile Communication Co., Ltd
 024042600953;2026-06-19;Telefone Móvel Celular;SM-F976B;;Standalone (SA);Samsung Electronics Co Ltd.
-023042601654;2026-05-11;Telefone Móvel Celular;CT70-X1;;Ambos (SA / NSA);Honeywell International Inc.
+023042601654;2026-11-05;Telefone Móvel Celular;CT70-X1;;Ambos (SA / NSA);Honeywell International Inc.
 022972000330;2022-05-09;Telefone Móvel Celular;XT2063-3;Motorola Edge;Non-standalone (NSA);Motorola Mobility LLC
 022862506150;2025-06-30;Telefone Móvel Celular;Tab-Ex 05 DZ1;;Ambos (SA / NSA);Pepperl+Fuchs SE
 022862506150;2025-06-30;Telefone Móvel Celular;Tab-Ex 05 DZ2;;Ambos (SA / NSA);Pepperl+Fuchs SE
