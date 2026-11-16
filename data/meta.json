@@ -1,6 +1,6 @@
 {
-  "last_fetch": "2026-11-09T21:51:48.770849Z",
-  "total_filtered_rows": 7666,
+  "last_fetch": "2026-11-16T21:32:57.476748Z",
+  "total_filtered_rows": 7665,
   "brands": {
     "APPLE": 942,
     "HONOR": 53,
@@ -10,6 +10,6 @@
     "REALME": 221,
     "SAMSUNG": 2059,
     "VIVO": 51,
-    "XIAOMI": 510
+    "XIAOMI": 509
   }
 }
